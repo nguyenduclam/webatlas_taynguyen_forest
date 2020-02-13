@@ -1,3 +1,3 @@
 # DEMO WebMap Tây Nguyên
-Link demo: https://nguyenduclam.github.io/webatlas_taynguyen_forest/index.html
+Link demo: https://nguyenduclam.github.io/
 + <img src="imgs/Demo.png" width="50%">
