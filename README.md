@@ -1,3 +1,3 @@
 # DEMO WebMap Tây Nguyên
-Link demo: https://nguyenduclam.github.io/
+Link demo:
 + <img src="imgs/Demo.png" width="50%">
