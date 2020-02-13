@@ -1,0 +1,572 @@
+{
+	"type": "FeatureCollection",
+	"name": "ruabien_bat",
+	"crs": {
+		"type": "name",
+		"properties": {
+			"name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+		}
+	},
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"ID_0": 241,
+				"ID_1": 3293,
+				"ID_3": 103377,
+				"VARNAME_3": "Phan Thiet",
+				"NL_NAME_3": "Bình Thuận",
+				"ENGTYPE_3": "City",
+				"Shape_Leng": 1.20416204897,
+				"Shape_Area": 0.0174670126,
+				"ORIG_FID": 8,
+				"2015": 2,
+				"2016": 0,
+				"2017": 0,
+				"2018": 0,
+				"2019": 0,
+				"xcoord": 108.26037574997243,
+				"ycoord": 10.985791172919383
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					108.26037574997243,
+					10.985791172919383
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ID_0": 241,
+				"ID_1": 3293,
+				"ID_3": 103378,
+				"VARNAME_3": "Phu Qui|Phu Quy",
+				"NL_NAME_3": "Phú Quý",
+				"ENGTYPE_3": "Island",
+				"Shape_Leng": 0.26833656959,
+				"Shape_Area": 0.00154872255,
+				"ORIG_FID": 9,
+				"2015": 0,
+				"2016": 1,
+				"2017": 0,
+				"2018": 0,
+				"2019": 0,
+				"xcoord": 108.94453013151372,
+				"ycoord": 10.528819457122565
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					108.94453013151372,
+					10.528819457122565
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ID_0": 241,
+				"ID_1": 3294,
+				"ID_3": 103453,
+				"VARNAME_3": null,
+				"NL_NAME_3": "Nha Trang",
+				"ENGTYPE_3": "City",
+				"Shape_Leng": 1.66771041892,
+				"Shape_Area": 0.02065621371,
+				"ORIG_FID": 16,
+				"2015": 0,
+				"2016": 1,
+				"2017": 0,
+				"2018": 0,
+				"2019": 0,
+				"xcoord": 109.16966883655333,
+				"ycoord": 12.262881889315917
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					109.16966883655333,
+					12.262881889315917
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ID_0": 241,
+				"ID_1": 3294,
+				"ID_3": 103488,
+				"VARNAME_3": "Quang Ngai",
+				"NL_NAME_3": "Quảng Ngãi",
+				"ENGTYPE_3": "Township",
+				"Shape_Leng": 0.31610707384,
+				"Shape_Area": 0.00314203923,
+				"ORIG_FID": 23,
+				"2015": 0,
+				"2016": 1,
+				"2017": 1,
+				"2018": 1,
+				"2019": 0,
+				"xcoord": 108.80827649996646,
+				"ycoord": 15.114582929897255
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					108.80827649996646,
+					15.114582929897255
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ID_0": 241,
+				"ID_1": 3289,
+				"ID_3": 102990,
+				"VARNAME_3": "Hue City",
+				"NL_NAME_3": "Huế",
+				"ENGTYPE_3": "City",
+				"Shape_Leng": 0.52186069776,
+				"Shape_Area": 0.00602197777,
+				"ORIG_FID": 106,
+				"2015": 0,
+				"2016": 0,
+				"2017": 1,
+				"2018": 0,
+				"2019": 0,
+				"xcoord": 107.57411339752075,
+				"ycoord": 16.457738122783075
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.57411339752075,
+					16.457738122783075
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ID_0": 241,
+				"ID_1": 3290,
+				"ID_3": 103009,
+				"VARNAME_3": "Bac Kan",
+				"NL_NAME_3": "Bắc Kạn",
+				"ENGTYPE_3": "Township",
+				"Shape_Leng": 0.60743105438,
+				"Shape_Area": 0.01199845548,
+				"ORIG_FID": 125,
+				"2015": 1,
+				"2016": 0,
+				"2017": 0,
+				"2018": 0,
+				"2019": 0,
+				"xcoord": 105.84736673201079,
+				"ycoord": 22.13295071517831
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					105.84736673201079,
+					22.13295071517831
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ID_0": 241,
+				"ID_1": 3290,
+				"ID_3": 103073,
+				"VARNAME_3": "Binh Lieu",
+				"NL_NAME_3": "Bạc Liêu",
+				"ENGTYPE_3": "District",
+				"Shape_Leng": 1.18663897686,
+				"Shape_Area": 0.04146180867,
+				"ORIG_FID": 189,
+				"2015": 0,
+				"2016": 1,
+				"2017": 0,
+				"2018": 0,
+				"2019": 0,
+				"xcoord": 105.48810146513827,
+				"ycoord": 9.28557198136032
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					105.48810146513827,
+					9.28557198136032
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ID_0": 241,
+				"ID_1": 3290,
+				"ID_3": 103078,
+				"VARNAME_3": "Ha Long",
+				"NL_NAME_3": "Hạ Long",
+				"ENGTYPE_3": "City",
+				"Shape_Leng": 8.42097236401,
+				"Shape_Area": 0.02284024147,
+				"ORIG_FID": 194,
+				"2015": 1,
+				"2016": 2,
+				"2017": 0,
+				"2018": 0,
+				"2019": 0,
+				"xcoord": 106.96722129651833,
+				"ycoord": 20.9827590426372
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					106.96722129651833,
+					20.9827590426372
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ID_0": 241,
+				"ID_1": 3290,
+				"ID_3": 103089,
+				"VARNAME_3": "Pho Yen",
+				"NL_NAME_3": "Phú Yên",
+				"ENGTYPE_3": "District",
+				"Shape_Leng": 1.30689519281,
+				"Shape_Area": 0.02259825518,
+				"ORIG_FID": 205,
+				"2015": 0,
+				"2016": 0,
+				"2017": 1,
+				"2018": 0,
+				"2019": 0,
+				"xcoord": 109.04566751611172,
+				"ycoord": 13.183058403493919
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					109.04566751611172,
+					13.183058403493919
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ID_0": 241,
+				"ID_1": 3291,
+				"ID_3": 103129,
+				"VARNAME_3": "Ben Tre",
+				"NL_NAME_3": "Bến Tre",
+				"ENGTYPE_3": "Township",
+				"Shape_Leng": 0.40459920033,
+				"Shape_Area": 0.00550099381,
+				"ORIG_FID": 245,
+				"2015": 0,
+				"2016": 0,
+				"2017": 0,
+				"2018": 1,
+				"2019": 0,
+				"xcoord": 106.37436655154359,
+				"ycoord": 10.237060772230107
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					106.37436655154359,
+					10.237060772230107
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ID_0": 241,
+				"ID_1": 3291,
+				"ID_3": 103136,
+				"VARNAME_3": "Ca Mau",
+				"NL_NAME_3": "Cà Mau",
+				"ENGTYPE_3": "City",
+				"Shape_Leng": 0.74500329464,
+				"Shape_Area": 0.02053030292,
+				"ORIG_FID": 252,
+				"2015": 0,
+				"2016": 0,
+				"2017": 0,
+				"2018": 2,
+				"2019": 0,
+				"xcoord": 105.19041215188176,
+				"ycoord": 9.17170444140936
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					105.19041215188176,
+					9.17170444140936
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ID_0": 241,
+				"ID_1": 3291,
+				"ID_3": 103175,
+				"VARNAME_3": "Ha Tien",
+				"NL_NAME_3": "Kiên Giang",
+				"ENGTYPE_3": "Township",
+				"Shape_Leng": 2.21234903743,
+				"Shape_Area": 0.07865355284,
+				"ORIG_FID": 291,
+				"2015": 0,
+				"2016": 0,
+				"2017": 0,
+				"2018": 5,
+				"2019": 1,
+				"xcoord": 104.64758218711197,
+				"ycoord": 10.370830957693613
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.64758218711197,
+					10.370830957693613
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ID_0": 241,
+				"ID_1": 3292,
+				"ID_3": 103254,
+				"VARNAME_3": "Hoan Kiem",
+				"NL_NAME_3": "Hà Nội",
+				"ENGTYPE_3": "District",
+				"Shape_Leng": 0.09100355879,
+				"Shape_Area": 0.00045400459,
+				"ORIG_FID": 370,
+				"2015": 1,
+				"2016": 0,
+				"2017": 0,
+				"2018": 0,
+				"2019": 0,
+				"xcoord": 105.85324103348168,
+				"ycoord": 21.028943870745875
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					105.85324103348168,
+					21.028943870745875
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ID_0": 241,
+				"ID_1": 3292,
+				"ID_3": 103292,
+				"VARNAME_3": "Do Son",
+				"NL_NAME_3": "Hải Phòng",
+				"ENGTYPE_3": "Township",
+				"Shape_Leng": 0.36668376156,
+				"Shape_Area": 0.00209336426,
+				"ORIG_FID": 408,
+				"2015": 1,
+				"2016": 0,
+				"2017": 0,
+				"2018": 0,
+				"2019": 0,
+				"xcoord": 106.747576,
+				"ycoord": 20.712437905848164
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					106.7475760000003,
+					20.712437905848164
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ID_0": 241,
+				"ID_1": 3292,
+				"ID_3": 103334,
+				"VARNAME_3": "Thai Binh",
+				"NL_NAME_3": "Thái Bình",
+				"ENGTYPE_3": "Township",
+				"Shape_Leng": 0.44229204274,
+				"Shape_Area": 0.00567002918,
+				"ORIG_FID": 450,
+				"2015": 0,
+				"2016": 1,
+				"2017": 0,
+				"2018": 0,
+				"2019": 0,
+				"xcoord": 106.34651676312835,
+				"ycoord": 20.452841279893048
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					106.34651676312835,
+					20.452841279893048
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ID_0": 241,
+				"ID_1": 3293,
+				"ID_3": 103401,
+				"VARNAME_3": "1",
+				"NL_NAME_3": "TP.HCM",
+				"ENGTYPE_3": "Urban District",
+				"Shape_Leng": 0.14129375348,
+				"Shape_Area": 0.00065289045,
+				"ORIG_FID": 501,
+				"2015": 1,
+				"2016": 5,
+				"2017": 2,
+				"2018": 0,
+				"2019": 0,
+				"xcoord": 106.69747249999979,
+				"ycoord": 10.772836482257607
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					106.69747249999979,
+					10.772836482257607
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ID_0": 241,
+				"ID_1": 3293,
+				"ID_3": 103420,
+				"VARNAME_3": "Phan Rang-Thap Cham",
+				"NL_NAME_3": "Phan Rang-Tháp Chàm",
+				"ENGTYPE_3": "Township",
+				"Shape_Leng": 0.60142907871,
+				"Shape_Area": 0.00650891595,
+				"ORIG_FID": 520,
+				"2015": 0,
+				"2016": 0,
+				"2017": 1,
+				"2018": 0,
+				"2019": 0,
+				"xcoord": 108.9762612315373,
+				"ycoord": 11.601325710162742
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					108.9762612315373,
+					11.601325710162742
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ID_0": 241,
+				"ID_1": 3294,
+				"ID_3": 103470,
+				"VARNAME_3": "Hoi An",
+				"NL_NAME_3": "Đà Nẵng",
+				"ENGTYPE_3": "Township",
+				"Shape_Leng": 0.68673891947,
+				"Shape_Area": 0.00533717215,
+				"ORIG_FID": 563,
+				"2015": 0,
+				"2016": 1,
+				"2017": 0,
+				"2018": 1,
+				"2019": 0,
+				"xcoord": 108.33650401643826,
+				"ycoord": 15.88494545599157
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					108.33650401643826,
+					15.88494545599157
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ID_0": 241,
+				"ID_1": 3294,
+				"ID_3": 103477,
+				"VARNAME_3": "Tam Ki",
+				"NL_NAME_3": "Quảng Nam",
+				"ENGTYPE_3": "Township",
+				"Shape_Leng": 0.64756051049,
+				"Shape_Area": 0.00757807832,
+				"ORIG_FID": 570,
+				"2015": 0,
+				"2016": 0,
+				"2017": 0,
+				"2018": 1,
+				"2019": 0,
+				"xcoord": 108.491046929632,
+				"ycoord": 15.584590119451614
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					108.491046929632,
+					15.584590119451614
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"ID_0": 0,
+				"ID_1": 0,
+				"ID_3": 0,
+				"VARNAME_3": null,
+				"NL_NAME_3": "Vũng Tàu",
+				"ENGTYPE_3": null,
+				"Shape_Leng": 0.0,
+				"Shape_Area": 0.0,
+				"ORIG_FID": 0,
+				"2015": 0,
+				"2016": 5,
+				"2017": 4,
+				"2018": 1,
+				"2019": 0,
+				"xcoord": 107.30677153666862,
+				"ycoord": 10.568811946873604
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.30677153666862,
+					10.568811946873604
+				]
+			}
+		}
+	]
+}

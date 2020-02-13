@@ -1,0 +1,129 @@
+#mymap{
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    width: 100%;
+}
+
+.label_legend, .label_legend_rec {
+    color: black;
+    font-weight: bold;
+    margin-left: 10px;
+    display: inline-block;
+}
+
+.label_legend {
+    margin-left: 10px;
+}
+
+.label_legend_rec {
+    margin-left: 60px;
+}
+
+#overlay0 {
+    position: absolute;
+    background-color: #00FF01;
+    height: 45px;
+    width: 45px;
+    border-radius: 50%;
+    z-index: -2;
+    opacity: 0.5;
+    margin-left: 1px;
+    margin-top: 10px;
+    border-width: 1px;
+    border-style: solid;
+}
+
+#overlay1 {
+    position: absolute;
+    background-color: #00FF01;
+    height: 28px;
+    width: 28px;
+    border-radius: 50%;
+    z-index: -2;
+    opacity: 0.5;
+    margin-left: 11px;
+    margin-top: 13px;
+    border-width: 1px;
+    border-style: solid;
+}
+
+#overlay2 {
+    position: absolute;
+    background-color: #00FF01;
+    height: 20px;
+    width: 20px;
+    border-radius: 50%;
+    z-index: -2;
+    opacity: 0.5;
+    margin-left: 19px;
+    margin-top: 9px;
+    border-width: 1px;
+    border-style: solid;
+}
+
+.container, .container_rec {
+    position: relative;
+    width: fit-content;
+    margin: 0;
+}
+
+.legend {
+    width: fit-content;
+    background-color: #f8ffed;
+    position: sticky;
+    padding: 5px;
+}
+
+.title-legend{
+    text-align: center;
+    font-family: "Times New Roman";
+    font-size: 20px;
+    font-weight: bold;
+    margin: 5px;
+}
+
+#rec1, #rec2, #rec3, #rec4, #rec5{
+    position: absolute;
+    height: 20px;
+    width: 50px;
+    z-index: -2;
+}
+
+#rec1 {
+    background-color: #ff000c;
+}
+
+#rec2 {
+    background-color: #00f4ff;
+}
+
+#rec3 {
+    background-color: #fff200;
+}
+
+#rec4 {
+    background-color: #008514;
+}
+
+#rec5 {
+    background-color: #dc34eb;
+}
+
+.key_tb{
+    font-weight: bold;
+    font-size: 13px;
+    color: #1f77b4;
+    text-align: right;
+    padding-right: 5px;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+table, tr, td{
+    border-bottom: solid 1px #dd1100;
+    font-size: 13px;
+    font-weight: bold;
+}
