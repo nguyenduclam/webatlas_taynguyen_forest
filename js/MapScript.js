@@ -140,6 +140,7 @@ $.getJSON("data/base.geojson", function(base){
             zoomHome.addTo(map);
             search.addTo(map);
 
+            var drawnItems = L.featureGroup().addTo(map);
             var baseMaps = {
                 "OpenStreetMap": op_street.addTo(map),
                 "Esri.WorldImagery": esri,
@@ -149,8 +150,36 @@ $.getJSON("data/base.geojson", function(base){
             var overlayMaps = {
                 "Tỉnh": base_tn,
                 "Rùa biển": turtle_vn,
-                "Rừng": forest_tn
+                "Rừng": forest_tn,
+                //"Draw Layers": drawnItems
             };
+
+            /*---leaflet Draw---*/
+            map.addControl(new L.Control.Draw({
+                //position: 'topright',
+                edit: {
+                    featureGroup: drawnItems,
+                    poly: {
+                        allowIntersection: true
+                    },
+                },
+                draw: {
+                    polygon: {
+                        allowIntersection: true,
+                        showArea: true,
+                        shapeOptions: {
+                            color: '#0018da'
+                        }
+                    },
+                    circle: false,
+                    polyline: false,
+                    circlemarker: false
+                }
+            }));
+            map.on(L.Draw.Event.CREATED, function (event) {
+                var layer = event.layer;
+                drawnItems.addLayer(layer);
+            });
 
             var control = L.control.layers(baseMaps, overlayMaps, {collapsed: false}).addTo(map);
 
