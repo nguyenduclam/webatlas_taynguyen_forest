@@ -1,4 +1,4 @@
-#mymap{
+#mymap {
     position: absolute;
     top: 0;
     bottom: 0;
@@ -75,7 +75,7 @@
     padding: 5px;
 }
 
-.title-legend{
+.title-legend {
     text-align: center;
     font-family: "Times New Roman";
     font-size: 20px;
@@ -83,7 +83,7 @@
     margin: 5px;
 }
 
-#rec1, #rec2, #rec3, #rec4, #rec5{
+#rec1, #rec2, #rec3, #rec4, #rec5 {
     position: absolute;
     height: 20px;
     width: 50px;
@@ -110,7 +110,7 @@
     background-color: #dc34eb;
 }
 
-.key_tb{
+.key_tb {
     font-weight: bold;
     font-size: 13px;
     color: #1f77b4;
@@ -122,7 +122,7 @@ table {
     border-collapse: collapse;
 }
 
-table, tr, td{
+table, tr, td {
     border-bottom: solid 1px #dd1100;
     font-size: 13px;
     font-weight: bold;
